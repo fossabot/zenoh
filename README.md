@@ -5,6 +5,7 @@
 [![Gitter](https://badges.gitter.im/atolab/zenoh.svg)](https://gitter.im/atolab/zenoh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![License](https://img.shields.io/badge/License-EPL%202.0-blue)](https://choosealicense.com/licenses/epl-2.0/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FZBoIsHere%2Fzenoh.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FZBoIsHere%2Fzenoh?ref=badge_shield)
 
 # Eclipse zenoh
 The Eclipse zenoh: Zero Overhead Pub/sub, Store/Query and Compute.
@@ -126,3 +127,7 @@ By default the zenoh router is delivered or built with 2 plugins that will be lo
 
 In case of troubles, please first check on [this page](https://zenoh.io/docs/getting-started/troubleshooting/) if the trouble and cause are already known.  
 Otherwise, you can ask a question on the [zenoh Gitter channel](https://gitter.im/atolab/zenoh), or [create an issue](https://github.com/eclipse-zenoh/zenoh/issues).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FZBoIsHere%2Fzenoh.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FZBoIsHere%2Fzenoh?ref=badge_large)
